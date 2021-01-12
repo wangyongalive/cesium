@@ -1,0 +1,11 @@
+[
+  {
+    "id": "document",
+    "version": "1.0",
+    "clock": {
+      "multiplier": 5,
+      "range": "LOOP_STOP",
+      "step": "SYSTEM_CLOCK_MULTIPLIER"
+    }
+  }
+]
